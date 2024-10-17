@@ -1,7 +1,7 @@
 # Analyzing covid19 trends between 2020 and 2024
 
   I will be making use of the https://ourworldindata.org/covid-deaths dataset to create an interactive dashboard to show the trends observed during the covid-19 virus pandemic which lasted for about 5 years.
-P.S The file is very huge and couldn't be attached but you can follow the link above to download or view the data set.
+P.S The file is very huge and couldn't be attached but you can follow the link above to download or view the data.
 
 ## Research Questions
 
